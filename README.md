@@ -1,4 +1,4 @@
-# converter app
+# Converter-app
 
 I am choose this project becasue this project help you to know abut binary, decimal, octa, hexadecimal and you can also convert all the number into binary,decimal,octa,hexadecimal.
 

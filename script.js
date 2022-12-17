@@ -34,13 +34,7 @@ document.getElementById("swap").addEventListener("click",()=>{
     let temp = from.value
     from.value = to.value
     to.value = temp
-    let result = convertBase(fromValue, toValue, inputValue)
-    resultBox.innerText = result
-    let temps = inputNumber.value
-
-    inputNumber.value = resultBox.value
-    resultBox.value = temps
-    console.log(inputNumber.value,resultBox.value,temps);
+    
 })
 
    
